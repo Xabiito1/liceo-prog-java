@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>04-ComprobarEdad</name>
+	<name>AdivinaNumeroXpp</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1635331289350</id>
+			<id>1635157973930</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

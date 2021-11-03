@@ -57,10 +57,10 @@ public class Principal {
 	}
 
 	private static void escribirMenu() {
-		System.out.println("MENÚ PRINCIPAL/n"
-				+ "1. Opción 1/n"
-				+ "2. Opción 2/n"
-				+ "3. Opción 3/n"
+		System.out.println("MENÚ PRINCIPAL\n"
+				+ "1. Opción 1\n"
+				+ "2. Opción 2\n"
+				+ "3. Opción 3\n"
 				+ "0. Salir");
 		
 	}
